@@ -1,0 +1,142 @@
+{
+  "en": {
+    "common": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About Us",
+      "partners": "Partners",
+      "contact": "Contact",
+      "shop": "Shop",
+      "cart": "Cart",
+      "checkout": "Checkout",
+      "search": "Search",
+      "addToCart": "Add to Cart",
+      "viewDetails": "View Details",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "continue": "Continue",
+      "back": "Back",
+      "apply": "Apply",
+      "clear": "Clear"
+    },
+    "header": {
+      "toggleLanguage": "عربي",
+      "toggleMenu": "Toggle Menu"
+    },
+    "footer": {
+      "company": "Company",
+      "support": "Support",
+      "followUs": "Follow Us",
+      "allRightsReserved": "All rights reserved",
+      "designedBy": "Designed and developed by"
+    },
+    "home": {
+      "hero": {
+        "title": "Premium Stationery & Office Supplies",
+        "subtitle": "Elevate your workspace with quality products from Oman's trusted supplier",
+        "exploreProducts": "Explore Products",
+        "contactUs": "Contact Us"
+      },
+      "features": {
+        "freeDelivery": {
+          "title": "Free Delivery",
+          "description": "Free nationwide delivery for orders over 50 OMR"
+        },
+        "qualityGuarantee": {
+          "title": "Quality Guarantee",
+          "description": "All products meet international quality standards"
+        },
+        "easyReturns": {
+          "title": "Easy Returns",
+          "description": "30-day hassle-free return policy"
+        },
+        "support": {
+          "title": "24/7 Support",
+          "description": "Customer service available round the clock"
+        }
+      },
+      "featuredProducts": {
+        "title": "Featured Products",
+        "viewAll": "View All Products"
+      },
+      "about": {
+        "title": "About Us",
+        "description1": "Paper & Pen Company is a leading supplier of stationery and office products in Oman, dedicated to providing high-quality products that meet the needs of businesses, educational institutions, and individual customers.",
+        "description2": "Established with a vision to provide premium stationery solutions at competitive prices, we have grown to become one of the most trusted names in the industry. Our extensive product range covers everything from essential office supplies to specialized printing services and customized corporate gifts.",
+        "readMore": "Read More"
+      },
+      "partners": {
+        "title": "Our Partners"
+      },
+      "cta": {
+        "title": "Ready to Shop?",
+        "description": "Explore our extensive collection of high-quality stationery and office supplies and order now.",
+        "shopNow": "Shop Now"
+      }
+    },
+    "products": {
+      "title": "Our Products",
+      "searchPlaceholder": "Search products...",
+      "categories": "Categories",
+      "priceRange": "Price Range",
+      "sortBy": "Sort by:",
+      "sortOptions": {
+        "default": "Default",
+        "priceLow": "Price: Low to High",
+        "priceHigh": "Price: High to Low",
+        "nameAsc": "Name: A to Z",
+        "nameDesc": "Name: Z to A"
+      },
+      "noProducts": "No products match your search criteria",
+      "productsCount": "{count} products"
+    },
+    "productDetail": {
+      "additionalInfo": "Additional Information",
+      "category": "Category",
+      "sku": "SKU",
+      "availability": "Availability",
+      "inStock": "In Stock",
+      "outOfStock": "Out of Stock"
+    },
+    "cart": {
+      "title": "Shopping Cart",
+      "empty": {
+        "title": "Your cart is empty",
+        "description": "Looks like you haven't added any products to your cart yet.",
+        "shopNow": "Shop Now"
+      },
+      "products": "Products",
+      "clearCart": "Clear Cart",
+      "remove": "Remove",
+      "orderSummary": "Order Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "free": "Free",
+      "freeShippingMessage": "Free shipping for orders over OMR 50.000",
+      "proceedToCheckout": "Proceed to Checkout",
+      "continueShopping": "Continue Shopping"
+    },
+    "checkout": {
+      "title": "Checkout",
+      "customerInfo": "Customer Information",
+      "customerInfoPrompt": "Enter your email or phone number to continue",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "welcomeBack": "Welcome back!",
+      "rewardPoints": "You have {points} reward points available.",
+      "usePoints": "Use my points for this order",
+      "fullName": "Full Name",
+      "address": "Address",
+      "city": "City",
+      "paymentMethod": "Payment Method",
+      "payWithThawani": "Pay with Thawani",
+      "thawaniDescription": "Secure payment via Thawani payment gateway",
+      "payOnPickup": "Pay on Pickup",
+      "pickupDescription": "Pay with cash or card when you pick up your order from our store",
+      "completeOrder": "Complete Order",
+      "backToCart": "Back to Cart",
+      "pointsDiscount": "Points Discount"
+    }
+  }
+}
