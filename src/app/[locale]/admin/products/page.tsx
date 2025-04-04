@@ -1,7 +1,12 @@
+import React, { ReactNode } from 'react';
 import AdminLayout from '@/components/admin/AdminLayout';
 import ProductManagement from '@/components/admin/ProductManagement';
 
-export default function ProductsPage() {
+interface PageProps {
+  children?: ReactNode;
+}
+
+export default function ProductsPage({}: PageProps): React.ReactElement {
   return (
     <AdminLayout>
       <ProductManagement />

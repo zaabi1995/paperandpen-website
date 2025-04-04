@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function ProductManagement() {
+export default function ProductManagement(): React.ReactElement {
   return (
     <div className="p-4">
       <h1 className="text-2xl font-bold mb-4">Product Management</h1>
