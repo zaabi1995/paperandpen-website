@@ -9,3 +9,6 @@
   NEXT_TELEMETRY_DISABLED = "1"
   NODE_VERSION = "18"
   NEXT_TYPESCRIPT_CHECK = "false"
+
+[functions]
+  directory = "netlify/functions"
