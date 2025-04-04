@@ -1,13 +1,13 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 
 interface LayoutProps {
-  children: ReactNode;
+  children: React.ReactNode;
   params: {
     locale: string;
   };
 }
 
-export default function Layout({ children, params }: LayoutProps) {
+export default function Layout({ children, params }: LayoutProps): React.ReactNode {
   const { locale } = params;
   
   return (

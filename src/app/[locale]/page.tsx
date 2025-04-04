@@ -1,14 +1,13 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 import { redirect } from 'next/navigation';
 
 interface PageProps {
-  children?: ReactNode;
   params: {
     locale: string;
   };
 }
 
-export default function HomePage({ params }: PageProps): React.ReactElement {
+export default function HomePage({ params }: PageProps): React.ReactNode {
   const { locale } = params;
   
   // Validate locale

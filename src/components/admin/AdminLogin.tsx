@@ -1,10 +1,6 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 
-interface AdminLoginProps {
-  children?: ReactNode;
-}
-
-export default function AdminLogin({}: AdminLoginProps): React.ReactElement {
+export default function AdminLogin(): React.ReactNode {
   return (
     <div className="admin-login p-4 max-w-md mx-auto mt-10">
       <h1 className="text-2xl font-bold mb-4">Admin Login</h1>

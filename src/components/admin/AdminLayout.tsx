@@ -1,10 +1,10 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 
 interface AdminLayoutProps {
-  children: ReactNode;
+  children: React.ReactNode;
 }
 
-export default function AdminLayout({ children }: AdminLayoutProps): React.ReactElement {
+export default function AdminLayout({ children }: AdminLayoutProps): React.ReactNode {
   return (
     <div className="admin-layout">
       <div className="admin-sidebar">
